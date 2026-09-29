@@ -27,9 +27,7 @@ expense-tracker/
 ├── summary.py
 ├── budget.py
 ├── README.md
-├── PROJECT_REPORT.md
-├── requirements.txt
-└── .gitignore
+├── PROJECTREPORT.md
 ```
 
 ### Python Files
